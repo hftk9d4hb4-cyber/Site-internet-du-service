@@ -1003,19 +1003,3 @@ h3 {
     padding: 6px;
     border-radius: 8px;
 }
-/* Logo du service plus visible */
-.brand-logo {
-  width: 180px !important;
-  height: 90px !important;
-  object-fit: contain !important;
-  background: #ffffff;
-  padding: 8px;
-  border-radius: 8px;
-}
-
-@media (max-width: 680px) {
-  .brand-logo {
-    width: 120px !important;
-    height: 64px !important;
-  }
-}
