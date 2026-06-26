@@ -994,3 +994,12 @@ h3 {
     margin-top: 18px;
   }
 }
+/* Logo du service plus visible */
+.brand-logo {
+    width: 180px !important;
+    height: 90px !important;
+    object-fit: contain;
+    background: white;
+    padding: 6px;
+    border-radius: 8px;
+}
