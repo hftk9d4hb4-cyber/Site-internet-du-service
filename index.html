@@ -1,0 +1,291 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Service de chirurgie viscérale et digestive du CHU de Nice</title>
+    <meta
+      name="description"
+      content="Site du Service de chirurgie viscérale et digestive du CHU de Nice : chirurgiens, expertises, recherche, enseignement, hospitalisation et rendez-vous."
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="utility-bar">
+      <a href="https://www.chu-nice.fr/" target="_blank" rel="noreferrer">Site officiel du CHU de Nice</a>
+      <span>Standard CHU : 04 92 03 77 77</span>
+      <a href="#infos-pratiques">Accès et hospitalisation</a>
+    </div>
+
+    <header class="topbar" data-header>
+      <a class="brand" href="#accueil" aria-label="Retour à l'accueil">
+        <img class="brand-logo" src="assets/logo-chu-nice.jpg" alt="CHU de Nice" />
+        <span>
+          <strong>Chirurgie viscérale et digestive</strong>
+          <small>Service hospitalo-universitaire</small>
+        </span>
+      </a>
+
+      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="navigation" data-nav-toggle>
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav id="navigation" class="nav" data-nav>
+        <a href="#expertises">Expertises</a>
+        <a href="#equipe">Équipe</a>
+        <a href="#infos-pratiques">Infos pratiques</a>
+        <a href="#recherche">Recherche</a>
+        <a href="#enseignement">Enseignement</a>
+        <a href="#actualites">Actualités</a>
+        <a class="nav-cta" href="#rendez-vous">Rendez-vous</a>
+      </nav>
+    </header>
+
+    <main>
+      <section id="accueil" class="hero">
+        <div class="hero-content">
+          <p class="eyebrow">CHU de Nice · Hôpital Archet 2</p>
+          <h1>Service de chirurgie viscérale et digestive</h1>
+          <p>
+            Une équipe hospitalo-universitaire dédiée aux pathologies digestives, abdominales et endocriniennes, avec
+            une activité de recours, de recherche clinique et d'enseignement.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#rendez-vous">Prendre rendez-vous</a>
+            <a class="button secondary" href="#expertises">Explorer les expertises</a>
+            <a class="button ghost" href="https://www.chu-nice.fr/" target="_blank" rel="noreferrer">Site du CHU</a>
+          </div>
+        </div>
+
+        <div class="hero-visual" aria-label="Photo de l'équipe et missions principales">
+          <figure class="hero-photo-card">
+            <img src="assets/equipe-service.jpg" alt="Équipe du Service de chirurgie viscérale et digestive du CHU de Nice" />
+            <figcaption>
+              <img src="assets/logo-service-chirurgie-digestive.jpg" alt="" />
+              <span>Équipe de chirurgie viscérale et digestive</span>
+            </figcaption>
+          </figure>
+          <div class="hero-metrics">
+            <div>
+              <strong>Recours</strong>
+              <span>Pathologies complexes et prises en charge multidisciplinaires</span>
+            </div>
+            <div>
+              <strong>Recherche</strong>
+              <span>Publications, innovation, essais et travaux hospitalo-universitaires</span>
+            </div>
+            <div>
+              <strong>Enseignement</strong>
+              <span>Formation des étudiants, internes et jeunes chirurgiens</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="quick-access" aria-label="Accès rapides">
+        <a href="#expertises">
+          <span>01</span>
+          <strong>Orienter par expertise</strong>
+        </a>
+        <a href="#equipe">
+          <span>02</span>
+          <strong>Choisir un chirurgien</strong>
+        </a>
+        <a href="#infos-pratiques">
+          <span>03</span>
+          <strong>Contacter une unité</strong>
+        </a>
+        <a href="#actualites">
+          <span>04</span>
+          <strong>Suivre les actualités</strong>
+        </a>
+      </section>
+
+      <section id="expertises" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Domaines de prise en charge</p>
+          <h2>Expertises du service</h2>
+          <p>
+            Chaque expertise renvoie vers les chirurgiens référents. Les textes pourront être enrichis ensuite avec les
+            parcours patients, brochures, protocoles et liens institutionnels.
+          </p>
+        </div>
+        <div class="expertise-grid" data-expertise-list></div>
+      </section>
+
+      <section id="equipe" class="section section-muted">
+        <div class="section-heading">
+          <p class="eyebrow">Équipe médicale</p>
+          <h2>Chirurgiens du service</h2>
+          <p>
+            Les fiches détaillées prévoient les expertises, publications, lien Doctolib et coordonnées de secrétariat
+            propres à chaque praticien.
+          </p>
+        </div>
+        <div class="filters" role="group" aria-label="Filtrer les praticiens">
+          <button class="filter active" type="button" data-filter="all">Tous</button>
+          <button class="filter" type="button" data-filter="professeur">Professeurs</button>
+          <button class="filter" type="button" data-filter="ph">Praticiens hospitaliers</button>
+          <button class="filter" type="button" data-filter="cca">Chefs de clinique</button>
+        </div>
+        <div class="people-grid" data-surgeon-list></div>
+      </section>
+
+      <section id="infos-pratiques" class="section practical-section">
+        <div class="section-heading">
+          <p class="eyebrow">Patients et visiteurs</p>
+          <h2>Hospitalisation et contacts</h2>
+          <p>
+            Les coordonnées ci-dessous sont prêtes pour la mise en ligne. Des emplacements restent prévus pour ajouter
+            ensuite les contacts par chirurgien ou par consultation spécialisée.
+          </p>
+        </div>
+
+        <div class="location-panel">
+          <div>
+            <p class="eyebrow">Localisation</p>
+            <h3>Hôpital Archet 2 · Niveau 3</h3>
+            <p>151 route St Antoine de Ginestière<br />CS 23079 · 06200 Nice</p>
+          </div>
+          <a class="button secondary" href="https://www.chu-nice.fr/" target="_blank" rel="noreferrer">Voir le site du CHU</a>
+        </div>
+
+        <div class="unit-grid">
+          <article class="unit-card">
+            <span class="unit-label">Hospitalisation complète</span>
+            <h3>Aile A3</h3>
+            <dl>
+              <div><dt>Secrétariat</dt><dd>04 92 03 63 36 · 04 92 03 60 38</dd></div>
+              <div><dt>Email</dt><dd><a href="mailto:sec-chirA3@chu-nice.fr">sec-chirA3@chu-nice.fr</a></dd></div>
+              <div><dt>Cadre de Santé</dt><dd>04 92 03 60 32</dd></div>
+              <div><dt>Infirmières</dt><dd>04 92 03 64 46</dd></div>
+            </dl>
+          </article>
+
+          <article class="unit-card">
+            <span class="unit-label">Hospitalisation complète</span>
+            <h3>Aile D3</h3>
+            <dl>
+              <div><dt>Secrétariat</dt><dd>04 92 03 63 37 · 04 92 03 60 41</dd></div>
+              <div><dt>Email</dt><dd><a href="mailto:sec-chirD3@chu-nice.fr">sec-chirD3@chu-nice.fr</a></dd></div>
+              <div><dt>Cadre de Santé</dt><dd>04 92 03 60 43</dd></div>
+              <div><dt>Infirmières</dt><dd>04 92 03 63 35</dd></div>
+            </dl>
+          </article>
+
+          <article class="unit-card highlight">
+            <span class="unit-label">Chirurgie ambulatoire</span>
+            <h3>Aile A3</h3>
+            <dl>
+              <div><dt>Secrétariat</dt><dd>04 92 03 93 91</dd></div>
+              <div><dt>Bureau infirmier</dt><dd>04 92 03 93 90</dd></div>
+              <div><dt>Email</dt><dd><a href="mailto:uca-archet@chu-nice.fr">uca-archet@chu-nice.fr</a></dd></div>
+              <div><dt>Horaires</dt><dd>7 h 00 · 18 h 00</dd></div>
+            </dl>
+          </article>
+
+          <article class="unit-card emergency">
+            <span class="unit-label">Chirurgie générale d'urgence</span>
+            <h3>CGU · Hôpital Pasteur 2</h3>
+            <dl>
+              <div><dt>Localisation</dt><dd>Niveau 3<br />30, Avenue de la Voie Romaine<br />CS 51069 · 06001 Nice</dd></div>
+              <div><dt>Secrétariat</dt><dd>04 92 03 33 88</dd></div>
+              <div><dt>Prestations</dt><dd>Prise en charge de pathologies chirurgicales de moins de 48 h suivant un passage aux urgences · chirurgie générale et viscérale.</dd></div>
+            </dl>
+          </article>
+        </div>
+
+        <div class="visit-row">
+          <strong>Horaires de visite</strong>
+          <span>Lundi au dimanche : 13 h à 20 h</span>
+        </div>
+      </section>
+
+      <section id="recherche" class="section split-section">
+        <div>
+          <p class="eyebrow">Recherche et publications</p>
+          <h2>Une dynamique universitaire au service des patients</h2>
+        </div>
+        <div class="rich-text">
+          <p>
+            Le service participe à la recherche clinique, à la valorisation scientifique et au développement de parcours
+            innovants dans les principales spécialités de chirurgie digestive : cancérologie, transplantation,
+            chirurgie bariatrique, pathologies pariétales, chirurgie hépato-biliaire, pancréatique, oeso-gastrique,
+            colorectale et pelvienne.
+          </p>
+          <p>
+            Cette page peut accueillir les publications récentes, les essais cliniques ouverts, les communications en
+            congrès, les collaborations universitaires et les travaux menés avec les équipes médicales et paramédicales
+            du CHU de Nice.
+          </p>
+          <a class="text-link" href="#actualites">Voir le fil d'actualités scientifiques</a>
+        </div>
+      </section>
+
+      <section id="enseignement" class="section split-section section-muted">
+        <div>
+          <p class="eyebrow">Enseignement</p>
+          <h2>Former les chirurgiens de demain</h2>
+        </div>
+        <div class="rich-text">
+          <p>
+            Le service assure une mission d'enseignement auprès des étudiants hospitaliers, internes, assistants et
+            chefs de clinique. La formation associe compagnonnage opératoire, réunions de concertation, enseignements
+            universitaires, simulation, discussion bibliographique et apprentissage de la décision chirurgicale.
+          </p>
+          <p>
+            Cette page pourra être enrichie avec le programme pédagogique, les modalités d'accueil des internes, les
+            ressources de formation, les journées scientifiques et les informations utiles pour les étudiants.
+          </p>
+        </div>
+      </section>
+
+      <section id="actualites" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Fil d'actualités</p>
+          <h2>Publications et informations du service</h2>
+          <p>
+            Les éléments ci-dessous sont des exemples modifiables. Vous pourrez y ajouter les publications, congrès,
+            recrutements, innovations et informations pratiques du service.
+          </p>
+        </div>
+        <div class="news-grid" data-news-list></div>
+      </section>
+
+      <section id="rendez-vous" class="section appointment">
+        <div>
+          <p class="eyebrow">Accès patients</p>
+          <h2>Prendre rendez-vous</h2>
+          <p>
+            Les boutons Doctolib sont prévus dans chaque fiche chirurgien. Remplacez simplement les liens temporaires
+            par les liens officiels des praticiens dès qu'ils sont disponibles.
+          </p>
+        </div>
+        <a class="button primary" href="#equipe">Choisir un praticien</a>
+      </section>
+    </main>
+
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden data-modal>
+      <div class="modal-backdrop" data-modal-close></div>
+      <article class="modal-card">
+        <button class="modal-close" type="button" aria-label="Fermer la fiche" data-modal-close>×</button>
+        <div data-modal-content></div>
+      </article>
+    </div>
+
+    <footer class="footer">
+      <div>
+        <strong>Service de chirurgie viscérale et digestive du CHU de Nice</strong>
+        <p>Site de présentation du service, de ses expertises, de ses activités universitaires et de ses praticiens.</p>
+      </div>
+      <div class="footer-links">
+        <a class="text-link" href="https://www.chu-nice.fr/" target="_blank" rel="noreferrer">Site du CHU</a>
+        <a class="text-link" href="#accueil">Retour en haut</a>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
