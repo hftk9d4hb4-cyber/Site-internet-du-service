@@ -29,7 +29,7 @@ const surgeons = [
     photo: "assets/photos/damien-massalou.jpg",
     expertise: ["Paroi abdominale", "Hernie", "Éventration", "Chirurgie robotique", "Urgences chirurgicales"],
     bio: "Spécialisé dans la chirurgie de la paroi abdominale, les hernies, les éventrations, y compris par chirurgie robot-assistée, ainsi que les urgences chirurgicales.",
-    publications: ["Ajouter ici les publications sur la chirurgie pariétale.", "Ajouter ici les publications sur la chirurgie d'urgence."],
+    publications: ["Ajouter ici les publications sur la chirurgie pariétale.", "https://pubmed.ncbi.nlm.nih.gov/?term=Massalou+d&size=200., "Ajouter ici les publications sur la chirurgie d'urgence."],
     doctolib: https://www.doctolib.fr/chirurgien/nice/damien-massalou
   },
   {
