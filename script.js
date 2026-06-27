@@ -30,7 +30,7 @@ const surgeons = [
     expertise: ["Paroi abdominale", "Hernie", "Éventration", "Chirurgie robotique", "Urgences chirurgicales"],
     bio: "Spécialisé dans la chirurgie de la paroi abdominale, les hernies, les éventrations, y compris par chirurgie robot-assistée, ainsi que les urgences chirurgicales.",
     publications: ["Ajouter ici les publications sur la chirurgie pariétale.", "Ajouter ici les publications sur la chirurgie d'urgence."],
-    doctolib: doctolibPlaceholder
+    doctolib: https://www.doctolib.fr/chirurgien/nice/damien-massalou
   },
   {
     id: "imed-ben-amor",
