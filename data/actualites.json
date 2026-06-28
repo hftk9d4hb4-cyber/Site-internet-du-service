@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-06-28",
+    "categorie": "Recherche",
+    "titre": "Actualité à compléter",
+    "resume": "Ajoutez ici une publication récente, un essai clinique, une communication en congrès ou une innovation du service.",
+    "lien": "#"
+  },
+  {
+    "date": "2026-06-15",
+    "categorie": "Enseignement",
+    "titre": "Formation et enseignement",
+    "resume": "Exemple d’actualité : journée pédagogique, accueil des internes, simulation, cours universitaire ou réunion bibliographique.",
+    "lien": "#"
+  },
+  {
+    "date": "2026-06-01",
+    "categorie": "Information patient",
+    "titre": "Organisation du service",
+    "resume": "Exemple d’actualité : nouvelle consultation spécialisée, parcours patient, accès pratique ou information institutionnelle.",
+    "lien": "#"
+  }
+]
