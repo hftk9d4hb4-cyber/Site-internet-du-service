@@ -1,0 +1,258 @@
+[
+  {
+    "id": "patrick-baque",
+    "name": "Pr Patrick BAQUÉ",
+    "role": "Chef de service",
+    "group": "professeur",
+    "initials": "PB",
+    "photo": "assets/photos/patrick-baque.jpg",
+    "expertise": [
+      "Direction du service",
+      "Chirurgie viscérale et digestive"
+    ],
+    "bio": "Chef du Service de chirurgie viscérale et digestive du CHU de Nice.",
+    "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/patrick-baque",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Baque%20P%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Direction du service",
+      "Chirurgie viscérale et digestive"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "damien-massalou",
+    "name": "Pr Damien MASSALOU",
+    "role": "Professeur des Universités – Praticien Hospitalier",
+    "group": "professeur",
+    "initials": "DM",
+    "photo": "assets/photos/damien-massalou.jpg",
+    "expertise": [
+      "Paroi abdominale",
+      "Hernie",
+      "Éventration",
+      "Chirurgie robotique",
+      "Urgences chirurgicales"
+    ],
+    "bio": "Spécialisé dans la chirurgie de la paroi abdominale, les hernies, les éventrations, y compris par chirurgie robot-assistée, ainsi que les urgences chirurgicales.",
+    "doctolib": "https://www.doctolib.fr/chirurgien/nice/damien-massalou",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Massalou%20D%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Paroi abdominale",
+      "Hernie",
+      "Éventration",
+      "Chirurgie robotique",
+      "Urgences chirurgicales"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "jean-louis-bernard",
+    "name": "Dr Jean-Louis BERNARD",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "JLB",
+    "photo": "assets/photos/jean-louis-bernard.jpg",
+    "expertise": [
+      "Carcinose péritonéale",
+      "CHIP"
+    ],
+    "bio": "Spécialisé dans la prise en charge de la carcinose péritonéale et la chimiothérapie hyperthermique intrapéritonéale.",
+    "doctolib": "https://www.doctolib.fr/chirurgien/nice/jean-louis-bernard?pid=establishment-6344",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Bernard%20JL%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Carcinose péritonéale",
+      "CHIP"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "clementine-mazoyer",
+    "name": "Dr Clémentine MAZOYER",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "CM",
+    "photo": "assets/photos/clementine-mazoyer.jpg",
+    "expertise": [
+      "Endométriose",
+      "Chirurgie de la surrénale",
+      "Chirurgie du rectum",
+      "Statique pelvienne",
+      "Carcinose péritonéale",
+      "CHIP"
+    ],
+    "bio": "Spécialisée dans l’endométriose, la chirurgie de la surrénale, la chirurgie du rectum, la statique pelvienne, ainsi que la carcinose péritonéale et la CHIP.",
+    "doctolib": "https://www.doctolib.fr/chirurgien/nice/clementine-mazoyer",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Mazoyer%20C%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Endométriose",
+      "Chirurgie de la surrénale",
+      "Chirurgie du rectum",
+      "Statique pelvienne",
+      "Carcinose péritonéale",
+      "CHIP"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "daniela-mariage",
+    "name": "Dr Daniela MARIAGE",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "DM",
+    "photo": "assets/photos/daniela-mariage.jpg",
+    "expertise": [
+      "Chirurgie pancréatique",
+      "Chirurgie œso-gastrique",
+      "Hernie hiatale"
+    ],
+    "bio": "Spécialisée en chirurgie pancréatique, chirurgie œso-gastrique et chirurgie de la hernie hiatale.",
+    "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/daniela-mariage",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Mariage%20D%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Chirurgie pancréatique",
+      "Chirurgie œso-gastrique",
+      "Hernie hiatale"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "amine-rahili",
+    "name": "Dr Amine RAHILI",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "AR",
+    "photo": "assets/photos/amine-rahili.jpg",
+    "expertise": [
+      "Cancérologie digestive",
+      "MICI",
+      "Maladie de Crohn",
+      "Rectocolite hémorragique"
+    ],
+    "bio": "Spécialisé en cancérologie digestive et dans la prise en charge chirurgicale des maladies inflammatoires chroniques intestinales.",
+    "doctolib": "https://www.doctolib.fr/chirurgien/nice/amine-rahili",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Rahili%20A%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Cancérologie digestive",
+      "MICI",
+      "Maladie de Crohn",
+      "Rectocolite hémorragique"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "gilda-serena-de-fatico",
+    "name": "Dr Gilda Serena DE FATICO",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "GSDF",
+    "photo": "assets/photos/gilda-serena-de-fatico.jpg",
+    "expertise": [
+      "Chirurgie bariatrique",
+      "Chirurgie de l’obésité",
+      "Paroi abdominale",
+      "Hernie",
+      "Éventration",
+      "Chirurgie robotique"
+    ],
+    "bio": "Spécialisée en chirurgie bariatrique et chirurgie de la paroi abdominale, notamment par approche robot-assistée.",
+    "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/gilda-serena-de-fatico-nice",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=De%20Fatico%20GS%5BAuthor%5D%20OR%20Fatico%20GS%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Chirurgie bariatrique",
+      "Chirurgie de l’obésité",
+      "Paroi abdominale",
+      "Hernie",
+      "Éventration",
+      "Chirurgie robotique"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "imed-ben-amor",
+    "name": "Dr Imed BEN AMOR",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "IBA",
+    "photo": "assets/photos/imed-ben-amor.jpg",
+    "expertise": [
+      "Chirurgie bariatrique",
+      "Chirurgie de l’obésité"
+    ],
+    "bio": "Spécialisé en chirurgie bariatrique et dans la prise en charge chirurgicale de l’obésité.",
+    "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/imed-ben-amor",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Ben%20Amor%20I%5BAuthor%5D%20AND%20Nice%5BAffiliation%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Chirurgie bariatrique",
+      "Chirurgie de l’obésité"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "guido-liddo",
+    "name": "Dr Guido LIDDO",
+    "role": "Praticien Hospitalier",
+    "group": "ph",
+    "initials": "GL",
+    "photo": "assets/photos/guido-liddo.jpg",
+    "expertise": [
+      "Chirurgie hépato-biliaire"
+    ],
+    "bio": "Spécialisé en chirurgie hépato-biliaire.",
+    "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/guido-liddo-nice",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Liddo%20G%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Chirurgie hépato-biliaire"
+    ],
+    "research": [],
+    "teaching": []
+  },
+  {
+    "id": "sebastien-frey",
+    "name": "Dr Sébastien FREY",
+    "role": "Chef de clinique",
+    "group": "cca",
+    "initials": "SF",
+    "photo": "assets/photos/sebastien-frey.jpg",
+    "expertise": [
+      "Chirurgie hépato-biliaire",
+      "Transplantation hépatique"
+    ],
+    "bio": "Chef de clinique spécialisé en chirurgie hépato-biliaire et transplantation hépatique.",
+    "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/sebastien-frey",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Frey%20S%5BAuthor%5D",
+    "selectedPublications": [],
+    "doctolibLabel": "Fiche Doctolib",
+    "activities": [
+      "Chirurgie hépato-biliaire",
+      "Transplantation hépatique"
+    ],
+    "research": [],
+    "teaching": []
+  }
+]

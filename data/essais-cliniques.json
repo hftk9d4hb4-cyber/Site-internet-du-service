@@ -1,0 +1,14 @@
+[
+  {
+    "statut": "À compléter",
+    "titre": "Exemple d’essai clinique",
+    "acronyme": "ACRONYME",
+    "promoteur": "CHU de Nice ou promoteur externe",
+    "investigateur": "Nom de l’investigateur principal",
+    "theme": "Chirurgie digestive",
+    "resume": "Remplacer ce texte par le résumé court de l’essai : objectif, population, intervention ou suivi.",
+    "inclusions": "Critères principaux d’inclusion à résumer.",
+    "contact": "cgu.secretariat@chu-nice.fr",
+    "lien": ""
+  }
+]
