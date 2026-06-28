@@ -1,0 +1,59 @@
+{
+  "service": "Service de chirurgie viscérale et digestive du CHU de Nice",
+  "sitePrincipal": "CHU de Nice – Hôpitaux Archet 2 et Pasteur 2",
+  "secretariatGeneral": {
+    "label": "Secrétariat CGU",
+    "telephone": "04 92 03 33 88",
+    "email": "cgu.secretariat@chu-nice.fr"
+  },
+  "unites": [
+    {
+      "nom": "Hôpital Archet 2 – Niveau 3",
+      "type": "Localisation principale",
+      "adresse": ["151 route St Antoine de Ginestière", "CS 23079 – 06200 Nice"],
+      "details": []
+    },
+    {
+      "nom": "Hospitalisation complète – Aile A3",
+      "type": "Hospitalisation conventionnelle",
+      "adresse": ["Hôpital Archet 2 – Niveau 3"],
+      "details": [
+        {"label": "Secrétariat", "value": "04 92 03 63 36 – 04 92 03 60 38"},
+        {"label": "Email", "value": "sec-chirA3@chu-nice.fr", "email": true},
+        {"label": "Cadre de Santé", "value": "04 92 03 60 32"},
+        {"label": "Infirmières", "value": "04 92 03 64 46"}
+      ]
+    },
+    {
+      "nom": "Hospitalisation complète – Aile D3",
+      "type": "Hospitalisation conventionnelle",
+      "adresse": ["Hôpital Archet 2 – Niveau 3"],
+      "details": [
+        {"label": "Secrétariat", "value": "04 92 03 63 37 – 04 92 03 60 41"},
+        {"label": "Email", "value": "sec-chirD3@chu-nice.fr", "email": true},
+        {"label": "Cadre de Santé", "value": "04 92 03 60 43"},
+        {"label": "Infirmières", "value": "04 92 03 63 35"}
+      ]
+    },
+    {
+      "nom": "Chirurgie ambulatoire – Aile A3",
+      "type": "Unité de chirurgie ambulatoire",
+      "adresse": ["Hôpital Archet 2"],
+      "details": [
+        {"label": "Secrétariat", "value": "04 92 03 93 91"},
+        {"label": "Bureau infirmier", "value": "04 92 03 93 90"},
+        {"label": "Mail", "value": "uca-archet@chu-nice.fr", "email": true}
+      ]
+    },
+    {
+      "nom": "Chirurgie Générale d'Urgence – CGU",
+      "type": "Urgences chirurgicales digestives",
+      "adresse": ["Hôpital Pasteur 2 – Niveau 3", "30, Avenue de la Voie Romaine", "CS 51069 – 06001 Nice"],
+      "details": [
+        {"label": "Secrétariat", "value": "04 92 03 33 88"},
+        {"label": "Mail", "value": "cgu.secretariat@chu-nice.fr", "email": true}
+      ]
+    }
+  ],
+  "visites": "Lundi au dimanche : 13 h à 20 h"
+}
