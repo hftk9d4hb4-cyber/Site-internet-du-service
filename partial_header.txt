@@ -1,0 +1,20 @@
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="topbar">
+  <div class="container header">
+    <a class="brand" href="__ROOT__index.html" aria-label="Accueil">
+      <img class="chu-logo" src="__ROOT__assets/logos/logo-chu-nice.png" alt="CHU de Nice">
+      <div><div class="brand-text">CHU de Nice</div><div class="brand-name">Chirurgie viscérale et digestive</div></div>
+    </a>
+    <button class="menu-toggle" type="button">Menu</button>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="__ROOT__index.html">Accueil</a>
+      <a href="__ROOT__pages/equipe.html">Équipe</a>
+      <a href="__ROOT__pages/expertises.html">Expertises</a>
+      <a href="__ROOT__pages/recherche.html">Recherche</a>
+      <a href="__ROOT__pages/enseignement.html">Enseignement</a>
+      <a href="__ROOT__pages/essais.html">Essais cliniques</a>
+      <a href="__ROOT__pages/actualites.html">Actualités</a>
+      <a href="__ROOT__pages/contact.html">Contact</a>
+    </nav>
+  </div>
+</header>
