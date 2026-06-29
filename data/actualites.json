@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2026-06-28",
+    "categorie": "Vie du service",
+    "titre": "1000e transplantation hépatique au CHU de Nice",
+    "resume": "Le 28 juin 2026, le CHU de Nice a franchi le cap symbolique de sa 1000e transplantation hépatique.",
+    "texte": "Cette étape majeure témoigne de l'engagement des équipes médicales, chirurgicales, anesthésiques, de réanimation, de coordination des prélèvements, des équipes soignantes et de l'ensemble des services impliqués dans la prise en charge des patients transplantés. Le service adresse ses remerciements aux familles, aux donneurs et à toutes les personnes dont l'engagement permet, chaque jour, de réparer des vies.",
+    "image": "",
+    "lien": ""
+  },
+  {
+    "date": "2026-06-15",
+    "categorie": "Recherche",
+    "titre": "Actualités scientifiques du service",
+    "resume": "Cette rubrique relayera les publications, congrès, communications et projets de recherche du service.",
+    "texte": "Les actualités peuvent être mises à jour simplement en modifiant le fichier data/actualites.json.",
+    "image": "",
+    "lien": ""
+  }
+]
