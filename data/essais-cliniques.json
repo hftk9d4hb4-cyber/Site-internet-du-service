@@ -1,12 +1,68 @@
-[
-  {
-    "acronyme": "À renseigner",
-    "titre": "Essai clinique en cours",
-    "statut": "À compléter",
-    "promoteur": "À compléter",
-    "investigateur": "À compléter",
-    "resume": "Cette page est prête à recevoir la liste des essais cliniques ouverts ou en cours dans le service.",
-    "criteres": "À compléter",
-    "contact": "cgu.secretariat@chu-nice.fr"
-  }
-]
+{
+  "introduction": "Le Service de chirurgie viscérale et digestive du CHU de Nice place la recherche clinique et l'innovation au cœur de son activité. Grâce à une implication forte dans les projets académiques multicentriques, les essais cliniques et les programmes de recherche institutionnels, nos équipes contribuent à l'évolution des pratiques chirurgicales et au développement de nouvelles stratégies thérapeutiques. Cette dynamique permet de proposer à nos patients un accès aux soins les plus modernes, dans le respect des exigences scientifiques, éthiques et réglementaires.",
+  "etudes_urgence": [
+    {
+      "acronyme": "SAMBA",
+      "pathologie": "Appendicite aiguë non compliquée",
+      "description": "Comparaison entre une prise en charge en hospitalisation conventionnelle et une prise en charge ambulatoire.",
+      "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "SURGI-BOW",
+      "pathologie": "Occlusion intestinale sur bride",
+      "description": "Étude visant à améliorer la stratégie thérapeutique des occlusions intestinales sur bride.",
+      "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "DIVERTI-2",
+      "pathologie": "Péritonite d'origine diverticulaire",
+      "description": "Étude consacrée à l'évaluation de la prise en charge des péritonites d'origine diverticulaire.",
+      "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "HYPNO-APP",
+      "pathologie": "Péritonite appendiculaire",
+      "description": "Évaluation de l'apport de vidéos d'hypnose en complément de la prise en charge habituelle.",
+      "statut": "Recrutement ouvert"
+    }
+  ],
+  "etudes_programmees": [
+    {
+      "acronyme": "TPIAT",
+      "objet": "Autotransplantation d'îlots de Langerhans après pancréatectomie céphalique.",
+      "promoteur": "CHU de Lille",
+      "investigateur": "Dr Daniela Mariage",
+      "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "PRESS-EVENT",
+      "objet": "Mesure per-opératoire de la pression abdominale au cours des cures d'éventration abdominale.",
+      "promoteur": "CHU de Nice",
+      "investigateur": "Pr Damien Massalou",
+      "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "BESURE",
+      "objet": "Cure synchrone des hernies ventrales de l'abdomen au cours d'une chirurgie bariatrique.",
+      "promoteur": "AP-HP",
+      "investigateur": "Dr Imed Ben Amor et Dr Gilda Serena De Fatico",
+      "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "SENSECO",
+      "objet": "Télémonitorage des paramètres vitaux pendant l'hospitalisation et à domicile.",
+      "promoteur": "Promotion industrielle",
+      "investigateur": "Pr Damien Massalou",
+      "statut": "Recrutement ouvert"
+    }
+  ],
+  "bases_donnees": [
+    "Traumatologie abdominale",
+    "Ischémie intestinale",
+    "Chirurgie bariatrique",
+    "Chirurgie pancréatique",
+    "Transplantation hépatique",
+    "Chirurgie robotique"
+  ],
+  "mention_reglementaire": "L'ensemble des recherches conduites au sein du service est réalisé conformément aux exigences réglementaires et éthiques en vigueur. Les études cliniques et les bases de données du service sont déclarées auprès des autorités compétentes."
+}
