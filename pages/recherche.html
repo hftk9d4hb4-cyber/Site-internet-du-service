@@ -1,20 +1,41 @@
-<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Recherche – CHU de Nice</title><meta name="description" content="Service de chirurgie viscérale et digestive du CHU de Nice – Hôpitaux Archet 2 et Pasteur 2."><link rel="stylesheet" href="../css/styles.css"><link rel="icon" href="../assets/logos/logo-chu-nice.png"></head><body><a class="skip" href="#contenu">Aller au contenu</a>
-<header class="topbar">
-  <div class="container header">
-    <a class="brand" href="../index.html" aria-label="Accueil">
-      <img class="chu-logo" src="../assets/logos/logo-chu-nice.png" alt="CHU de Nice">
-      <div><div class="brand-text">CHU de Nice</div><div class="brand-name">Chirurgie viscérale et digestive</div></div>
-    </a>
-    <button class="menu-toggle" type="button">Menu</button>
-    <nav class="nav" aria-label="Navigation principale">
-      <a href="../index.html">Accueil</a>
-      <a href="../pages/equipe.html">Équipe</a>
-      <a href="../pages/expertises.html">Expertises</a>
-      <a href="../pages/recherche.html">Recherche</a>
-      <a href="../pages/enseignement.html">Enseignement</a>
-      <a href="../pages/essais.html">Essais cliniques</a>
-      <a href="../pages/actualites.html">Actualités</a>
-      <a href="../pages/contact.html">Contact</a>
-    </nav>
-  </div>
-</header><main id="contenu"><section class="page-hero"><div class="container"><div class="breadcrumbs">Accueil / Recherche</div><h1>Recherche et innovation</h1><p class="lead">Le service développe une activité de recherche clinique et translationnelle en chirurgie digestive, urgence, traumatologie et innovation opératoire.</p></div></section><section class="section"><div class="container grid two"><article class="card"><h3>Axes de recherche</h3><div class="tags"><span class="tag">Traumatologie abdominale</span><span class="tag">Ischémie intestinale</span><span class="tag">Chirurgie pariétale</span><span class="tag">Robotique</span><span class="tag">Oncologie digestive</span></div><p>Les axes pourront être enrichis progressivement dans les fichiers de contenu sans modifier l’architecture du site.</p></article><article class="card"><h3>Essais cliniques</h3><p>Une page dédiée permet de présenter les essais ouverts, clos ou en préparation.</p><a class="btn primary" href="essais.html">Voir les essais cliniques</a></article></div></section></main><footer class="footer"><div class="container footer-grid"><div><img class="footer-logo" src="../assets/logos/logo-chu-nice.png" alt="CHU de Nice"><strong>Service de chirurgie viscérale et digestive</strong><p>CHU de Nice – Hôpitaux Archet 2 et Pasteur 2</p></div><div><strong>Liens</strong><p><a href="https://www.chu-nice.fr" target="_blank" rel="noopener">Site officiel du CHU de Nice</a><br><a href="../pages/contact.html">Coordonnées du service</a></p></div><div><strong>Contact</strong><p><a href="mailto:cgu.secretariat@chu-nice.fr">cgu.secretariat@chu-nice.fr</a><br>04 92 03 33 88</p></div></div></footer><script src="../js/app.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Recherche</title>
+<link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+<main class="container">
+<h1>Recherche</h1>
+<p id="intro">Cette page charge son contenu depuis <code>data/recherche.json</code>.</p>
+
+<section>
+<h2>Études cliniques en urgence</h2>
+<div id="urgence"></div>
+</section>
+
+<section>
+<h2>Études en chirurgie programmée</h2>
+<div id="programmees"></div>
+</section>
+
+<section>
+<h2>Bases de données du service</h2>
+<ul id="bases"></ul>
+</section>
+
+<p><em>L'ensemble des recherches conduites au sein du service est réalisé conformément aux exigences réglementaires et éthiques en vigueur. Les bases de données et études cliniques sont déclarées auprès des autorités compétentes.</em></p>
+</main>
+
+<script>
+fetch('../data/recherche.json')
+.then(r=>r.json())
+.then(d=>{
+ document.getElementById('intro').textContent=d.introduction;
+ document.getElementById('urgence').innerHTML=d.urgence.map(e=>`<article class="card"><h3>${e.nom}</h3><strong>${e.theme}</strong><p>${e.description}</p></article>`).join('');
+ document.getElementById('programmees').innerHTML=d.programmees.map(e=>`<article class="card"><h3>${e.nom}</h3><strong>${e.theme}</strong><p><b>Promoteur :</b> ${e.promoteur}<br><b>Investigateur :</b> ${e.investigateur}</p></article>`).join('');
+ document.getElementById('bases').innerHTML=d.bases.map(b=>`<li>${b}</li>`).join('');
+});
+</script>
+</body></html>
