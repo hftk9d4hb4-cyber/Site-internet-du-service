@@ -14,8 +14,7 @@
     "recherche": "Recherche clinique et travaux académiques en chirurgie viscérale et digestive.",
     "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/patrick-baque",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Baque+P%5BAuthor%5D",
-    "ordre_affichage": 1,
-    "telephone": "04 92 03 66 17"
+    "ordre_affichage": 1
   },
   {
     "id": "damien-massalou",
@@ -33,26 +32,7 @@
     "recherche": "Traumatologie abdominale, ischémie intestinale aiguë, chirurgie pariétale et évaluation médico-économique.",
     "doctolib": "https://www.doctolib.fr/chirurgien/nice/damien-massalou",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Massalou+D%5BAuthor%5D",
-    "ordre_affichage": 2,
-    "telephone": "04 92 03 71 19"
-  },
-  {
-    "id": "jean-louis-bernard",
-    "nom": "Dr Jean-Louis Bernard",
-    "fonction": "Chirurgie oncologique digestive – carcinose péritonéale et CHIP",
-    "photo": "assets/photos/jean-louis-bernard.jpg",
-    "expertises": [
-      "Carcinose péritonéale",
-      "CHIP",
-      "Chirurgie oncologique digestive"
-    ],
-    "activites": "Prise en charge chirurgicale des cancers digestifs avec atteinte péritonéale et stratégies de recours.",
-    "enseignement": "Encadrement des internes et participation à la formation en chirurgie oncologique digestive.",
-    "recherche": "Recherche clinique en chirurgie oncologique digestive et carcinose péritonéale.",
-    "doctolib": "https://www.doctolib.fr/chirurgien/nice/jean-louis-bernard?pid=establishment-6344",
-    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Bernard+JL%5BAuthor%5D",
-    "ordre_affichage": 3,
-    "telephone": "04 92 03 71 53"
+    "ordre_affichage": 2
   },
   {
     "id": "imed-ben-amor",
@@ -71,27 +51,24 @@
     "recherche": "Recherche clinique en chirurgie bariatrique et digestive.",
     "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/imed-ben-amor",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=%28Ben+Amor+I%5BAuthor%5D%29+AND+Nice%5BAffiliation%5D",
-    "ordre_affichage": 4,
-    "telephone": "04 92 03 67 16"
+    "ordre_affichage": 3
   },
   {
-    "id": "andrea-chierici",
-    "nom": "Dr Andrea Chierici",
-    "fonction": "Chirurgie viscérale et digestive",
-    "photo": "assets/photos/andrea-chierici.jpg",
+    "id": "jean-louis-bernard",
+    "nom": "Dr Jean-Louis Bernard",
+    "fonction": "Chirurgie oncologique digestive – carcinose péritonéale et CHIP",
+    "photo": "assets/photos/jean-louis-bernard.jpg",
     "expertises": [
-      "Chirurgie oncologique",
-      "Urgences chirurgicales",
-      "Chirurgie œso-gastrique",
-      "Chirurgie robotique"
+      "Carcinose péritonéale",
+      "CHIP",
+      "Chirurgie oncologique digestive"
     ],
-    "activites": "Chirurgie viscérale et digestive, avec activité en chirurgie oncologique, urgences chirurgicales et chirurgie œso-gastrique.",
-    "enseignement": "Formation clinique et chirurgicale des étudiants et internes.",
-    "recherche": "Recherche clinique en chirurgie digestive.",
-    "doctolib": "",
-    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Chierici+a&size=200",
-    "ordre_affichage": 5,
-    "telephone": "04 92 03 71 53"
+    "activites": "Prise en charge chirurgicale des cancers digestifs avec atteinte péritonéale et stratégies de recours.",
+    "enseignement": "Encadrement des internes et participation à la formation en chirurgie oncologique digestive.",
+    "recherche": "Recherche clinique en chirurgie oncologique digestive et carcinose péritonéale.",
+    "doctolib": "https://www.doctolib.fr/chirurgien/nice/jean-louis-bernard?pid=establishment-6344",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Bernard+JL%5BAuthor%5D",
+    "ordre_affichage": 4
   },
   {
     "id": "gilda-serena-de-fatico",
@@ -108,8 +85,7 @@
     "recherche": "Recherche clinique en chirurgie bariatrique, pariétale et robotique.",
     "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/gilda-serena-de-fatico-nice",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=De+Fatico+GS%5BAuthor%5D",
-    "ordre_affichage": 6,
-    "telephone": "04 92 03 67 16"
+    "ordre_affichage": 5
   },
   {
     "id": "guido-liddo",
@@ -127,8 +103,7 @@
     "recherche": "Recherche clinique en chirurgie digestive.",
     "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/guido-liddo-nice",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Liddo+G%5BAuthor%5D",
-    "ordre_affichage": 7,
-    "telephone": "04 92 03 71 19"
+    "ordre_affichage": 6
   },
   {
     "id": "andrea-mabilia",
@@ -143,7 +118,7 @@
     "recherche": "Activité scientifique et publications référencées sur PubMed.",
     "doctolib": "",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Mabilia+a&size=200",
-    "ordre_affichage": 8,
+    "ordre_affichage": 7,
     "telephone": "04 92 03 71 19"
   },
   {
@@ -162,8 +137,7 @@
     "recherche": "Recherche clinique en chirurgie pancréatique, robotique et pathologies digestives hautes.",
     "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/daniela-mariage",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Mariage+D%5BAuthor%5D",
-    "ordre_affichage": 9,
-    "telephone": "04 92 03 24 36"
+    "ordre_affichage": 8
   },
   {
     "id": "clementine-mazoyer",
@@ -183,8 +157,7 @@
     "recherche": "Recherche clinique en chirurgie colorectale, endométriose et chirurgie oncologique.",
     "doctolib": "https://www.doctolib.fr/chirurgien/nice/clementine-mazoyer",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Mazoyer+C%5BAuthor%5D",
-    "ordre_affichage": 10,
-    "telephone": "04 92 03 24 36"
+    "ordre_affichage": 9
   },
   {
     "id": "amine-rahili",
@@ -202,8 +175,7 @@
     "recherche": "Recherche clinique en chirurgie digestive, oncologie et MICI.",
     "doctolib": "https://www.doctolib.fr/chirurgien/nice/amine-rahili",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Rahili+A%5BAuthor%5D",
-    "ordre_affichage": 11,
-    "telephone": "04 92 03 71 53"
+    "ordre_affichage": 10
   },
   {
     "id": "michel-rayar",
@@ -219,8 +191,7 @@
     "recherche": "Recherche clinique en chirurgie hépato-biliaire et transplantation hépatique.",
     "doctolib": "",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Rayar+m&size=200",
-    "ordre_affichage": 12,
-    "telephone": "04 92 03 71 19"
+    "ordre_affichage": 11
   },
   {
     "id": "eric-sejor",
@@ -233,13 +204,12 @@
     "recherche": "",
     "doctolib": "",
     "pubmed": "",
-    "ordre_affichage": 13,
-    "telephone": "04 92 03 67 16"
+    "ordre_affichage": 12
   },
   {
     "id": "sebastien-frey",
     "nom": "Dr Sébastien Frey",
-    "fonction": "Chirurgie hépato-biliaire et transplantation hépatique",
+    "fonction": "Chef de clinique – Chirurgie hépato-biliaire et transplantation hépatique",
     "photo": "assets/photos/sebastien-frey.jpg",
     "expertises": [
       "Transplantation hépatique",
@@ -249,11 +219,32 @@
       "Urgences digestives"
     ],
     "activites": "Chirurgie viscérale et digestive, chirurgie hépato-biliaire et transplantation hépatique au sein du CHU de Nice.",
-    "enseignement": "Formation clinique et encadrement des internes.",
-    "recherche": "Recherche clinique en chirurgie digestive.",
+    "enseignement": "Implication forte dans la formation des étudiants en médecine et des internes de chirurgie viscérale et digestive, avec participation active à leur encadrement clinique et opératoire.",
+    "recherche": "Implication forte dans la recherche clinique en chirurgie hépato-biliaire, transplantation hépatique et chirurgie digestive, avec participation aux projets scientifiques et aux publications du service.",
     "doctolib": "https://www.doctolib.fr/chirurgien-visceral-et-digestif/nice/sebastien-frey",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Frey+S%5BAuthor%5D",
+    "ordre_affichage": 13
+  },
+  {
+    "id": "andrea-chierici",
+    "nom": "Dr Andrea Chierici",
+    "fonction": "Chef de clinique – Chirurgie viscérale et digestive",
+    "photo": "assets/photos/andrea-chierici.jpg",
+    "expertises": [
+      "Chirurgie oncologique",
+      "Urgences chirurgicales",
+      "Chirurgie œso-gastrique",
+      "Chirurgie robotique"
+    ],
+    "activites": "Chirurgie viscérale et digestive, avec activité en chirurgie oncologique, urgences chirurgicales et chirurgie œso-gastrique.",
+    "enseignement": "Formation clinique et chirurgicale des étudiants et internes.",
+    "recherche": "Recherche clinique en chirurgie digestive.",
+    "doctolib": "",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Chierici+a&size=200",
     "ordre_affichage": 14,
-    "telephone": "04 92 03 71 19"
+    "statut": {
+      "type": "mobilite",
+      "texte": "En mobilité internationale pendant un an en Australie et au Japon (2026–2027)."
+    }
   }
 ]
