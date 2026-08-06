@@ -1,0 +1,59 @@
+{
+  "introduction": "Le Service de chirurgie viscérale et digestive du CHU de Nice place la recherche clinique et l'innovation au cœur de son activité. Grâce à une implication forte dans les projets académiques multicentriques, les essais cliniques et les programmes de recherche institutionnels, nos équipes contribuent à l'évolution des pratiques chirurgicales et au développement de nouvelles stratégies thérapeutiques. Cette dynamique permet de proposer à nos patients un accès aux soins les plus modernes, dans le respect des exigences scientifiques, éthiques et réglementaires.",
+  "etudes_urgence": [
+    {
+      "nom": "SAMBA",
+      "theme": "Appendicite aiguë non compliquée",
+      "description": "Comparaison entre hospitalisation conventionnelle et prise en charge ambulatoire."
+    },
+    {
+      "nom": "SURGI-BOW",
+      "theme": "Occlusion intestinale sur bride",
+      "description": "Étude sur la stratégie thérapeutique des occlusions intestinales sur bride."
+    },
+    {
+      "nom": "DIVERTI-2",
+      "theme": "Péritonite d'origine diverticulaire",
+      "description": "Étude consacrée à la prise en charge des péritonites diverticulaires."
+    },
+    {
+      "nom": "HYPNO-APP",
+      "theme": "Péritonite appendiculaire",
+      "description": "Évaluation de l'apport de vidéos d'hypnose dans la prise en charge péri-opératoire."
+    }
+  ],
+  "etudes_programmees": [
+    {
+      "nom": "TPIAT",
+      "promoteur": "CHU de Lille",
+      "investigateur": "Dr Daniela Mariage",
+      "theme": "Autotransplantation d'îlots de Langerhans après pancréatectomie"
+    },
+    {
+      "nom": "PRESS-EVENT",
+      "promoteur": "CHU de Nice",
+      "investigateur": "Pr Damien Massalou",
+      "theme": "Mesure per-opératoire de la pression abdominale au cours des cures d'éventration"
+    },
+    {
+      "nom": "BESURE",
+      "promoteur": "AP-HP",
+      "investigateurs": "Dr Imed Ben Amor, Dr Gilda Serena De Fatico",
+      "theme": "Cure synchrone des hernies ventrales au cours d'une chirurgie bariatrique"
+    },
+    {
+      "nom": "SENSECO",
+      "promoteur": "Promotion industrielle",
+      "investigateur": "Pr Damien Massalou",
+      "theme": "Télémonitorage des paramètres vitaux en hospitalisation et à domicile"
+    }
+  ],
+  "bases_donnees": [
+    "Traumatologie abdominale",
+    "Ischémie intestinale",
+    "Chirurgie bariatrique",
+    "Chirurgie pancréatique",
+    "Transplantation hépatique",
+    "Chirurgie robotique"
+  ]
+}
