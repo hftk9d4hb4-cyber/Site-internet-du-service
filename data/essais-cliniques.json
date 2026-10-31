@@ -54,6 +54,14 @@
       "promoteur": "Promotion industrielle",
       "investigateur": "Pr Damien Massalou",
       "statut": "Recrutement ouvert"
+    },
+    {
+      "acronyme": "INCISOX",
+      "objet": "Apport de l'injection de toxine botulique dans les éventrations géantes.",
+      "site": "Archet",
+      "promoteur": "",
+      "investigateur": "",
+      "statut": "À venir"
     }
   ],
   "bases_donnees": [

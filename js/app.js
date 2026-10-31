@@ -141,14 +141,17 @@ function emergencyTrialCard(trial) {
 }
 
 function scheduledTrialCard(trial) {
+  const details = [
+    trial.site ? `<strong>Site :</strong> ${trial.site}` : '',
+    trial.promoteur ? `<strong>Promoteur :</strong> ${trial.promoteur}` : '',
+    trial.investigateur ? `<strong>Investigateur local :</strong> ${trial.investigateur}` : ''
+  ].filter(Boolean).join('<br>');
+
   return `<article class="card">
     <span class="trial-status">${trial.statut || 'Recrutement ouvert'}</span>
     <h3>${trial.acronyme}</h3>
     <p>${trial.objet || ''}</p>
-    <p class="small">
-      <strong>Promoteur :</strong> ${trial.promoteur || ''}<br>
-      <strong>Investigateur local :</strong> ${trial.investigateur || ''}
-    </p>
+    ${details ? `<p class="small">${details}</p>` : ''}
   </article>`;
 }
 
