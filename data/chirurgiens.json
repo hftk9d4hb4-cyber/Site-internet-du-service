@@ -106,22 +106,6 @@
     "ordre_affichage": 6
   },
   {
-    "id": "andrea-mabilia",
-    "nom": "Dr Andrea Mabilia",
-    "fonction": "Chirurgien viscéral et digestif",
-    "photo": "assets/photos/andrea-mabilia.jpg",
-    "expertises": [
-      "Urgences"
-    ],
-    "activites": "Prise en charge des urgences chirurgicales digestives et activité de chirurgie viscérale et digestive.",
-    "enseignement": "Participation à l'encadrement clinique et à la formation au sein du service.",
-    "recherche": "Activité scientifique et publications référencées sur PubMed.",
-    "doctolib": "",
-    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Mabilia+a&size=200",
-    "ordre_affichage": 7,
-    "telephone": "04 92 03 71 19"
-  },
-  {
     "id": "daniela-mariage",
     "nom": "Dr Daniela Mariage",
     "fonction": "Chirurgie pancréatique, œso-gastrique et hernie hiatale",
