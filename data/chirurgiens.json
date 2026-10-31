@@ -262,5 +262,19 @@
     "doctolib": "",
     "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Berzan%20D%5BAuthor%5D",
     "ordre_affichage": 16
+  },
+  {
+    "id": "docteurs-juniors",
+    "type": "groupe",
+    "nom": "Dr Fanny Four et Dr Dorith Benamran",
+    "fonction": "Docteurs juniors",
+    "photo": "",
+    "expertises": [],
+    "activites": "Pas de consultation.",
+    "enseignement": "",
+    "recherche": "",
+    "doctolib": "",
+    "pubmed": "",
+    "ordre_affichage": 17
   }
 ]
