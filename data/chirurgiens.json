@@ -266,11 +266,11 @@
   {
     "id": "docteurs-juniors",
     "type": "groupe",
-    "nom": "Dr Fanny Four et Dr Dorith Benamran",
+    "nom": "Dr Fanny Four, Dr Dorith Benamran et Dr Hedi Ghaloussi",
     "fonction": "Docteurs juniors",
     "photo": "",
     "expertises": [],
-    "activites": "Pas de consultation.",
+    "activites": "",
     "enseignement": "",
     "recherche": "",
     "doctolib": "",
