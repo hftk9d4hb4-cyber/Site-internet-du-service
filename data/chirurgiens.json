@@ -246,5 +246,37 @@
       "type": "mobilite",
       "texte": "En mobilité internationale pendant un an en Australie et au Japon (2026–2027)."
     }
-  }
+  },
+    {
+      "id": "marianne-roy",
+      "nom": "Dr Marianne Roy",
+      "fonction": "Chef de clinique",
+      "photo": "",
+      "expertises": [
+        "Chirurgie oncologique"
+      ],
+      "activites": "Chirurgie oncologique.",
+      "enseignement": "",
+      "recherche": "Recherche PubMed par auteur (Roy M) : les résultats peuvent inclure des homonymes et ne constituent pas une fiche personnelle unique.",
+      "doctolib": "",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Roy%20M%5BAuthor%5D",
+      "ordre_affichage": 15
+    },
+    {
+      "id": "diana-berzan",
+      "nom": "Dr Diana Berzan",
+      "fonction": "Assistante spécialiste",
+      "photo": "",
+      "expertises": [
+        "Urgences chirurgicales",
+        "Chirurgie hépato-biliaire",
+        "Prélèvement hépatique"
+      ],
+      "activites": "Urgences chirurgicales, chirurgie hépato-biliaire et prélèvement hépatique.",
+      "enseignement": "",
+      "recherche": "Recherche PubMed par auteur (Berzan D) : les résultats peuvent inclure des homonymes et ne constituent pas une fiche personnelle unique.",
+      "doctolib": "",
+      "pubmed": "https://pubmed.ncbi.nlm.nih.gov/?term=Berzan%20D%5BAuthor%5D",
+      "ordre_affichage": 16
+    }
 ]
