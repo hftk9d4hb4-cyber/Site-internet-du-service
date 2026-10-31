@@ -27,3 +27,9 @@ img{max-width:100%;display:block}.container{width:min(1160px,92vw);margin:0 auto
 
 /* Actualités enrichies */
 .news-card{overflow:hidden}.news-image{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-bottom:1rem;border:1px solid var(--line)}.news-meta{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin-bottom:.75rem}.news-more{margin-top:1rem;border-top:1px solid var(--line);padding-top:.85rem}.news-more summary{cursor:pointer;font-weight:800;color:var(--chu-blue-dark)}.news-more p{margin:.75rem 0 0}.tag-vie-du-service{background:#eaf4fa;color:#0b4f71}.tag-recherche{background:#eaf7e8;color:#2c6b16}.tag-enseignement{background:#fff3df;color:#8a4b00}.tag-essai-clinique{background:#fce8e6;color:#9b1c1c}.tag-distinction{background:#f1e9ff;color:#5b2ca0}
+
+/* Fiche commune des docteurs juniors */
+.person-card.person-group{display:block}
+.person-group h3{margin:0 0 1.25rem}
+.person-group-members{list-style:none;padding:0;margin:0;display:grid;gap:.75rem}
+.person-group-members li{padding:.75rem 1rem;border-left:3px solid var(--chu-cyan);background:#f5f9fc;border-radius:0 10px 10px 0;color:var(--chu-blue-dark);font-weight:700}

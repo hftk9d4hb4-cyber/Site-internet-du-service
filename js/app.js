@@ -46,10 +46,10 @@ function telHref(number) {
 
 function personCard(person) {
   if (person.type === 'groupe') {
-    return `<article class="card person-card" id="${person.id}">
+    return `<article class="card person-card person-group" id="${person.id}">
       <div>
         <h3>${person.fonction}</h3>
-        <p>${person.nom}</p>
+        <ul class="person-group-members">${person.nom.split(/,\s*|\s+et\s+/).map(name => `<li>${name}</li>`).join('')}</ul>
         <p class="small">${person.activites || ''}</p>
       </div>
     </article>`;
