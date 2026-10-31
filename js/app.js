@@ -45,6 +45,16 @@ function telHref(number) {
 }
 
 function personCard(person) {
+  if (person.type === 'groupe') {
+    return `<article class="card person-card" id="${person.id}">
+      <div>
+        <h3>${person.fonction}</h3>
+        <p>${person.nom}</p>
+        <p class="small">${person.activites || ''}</p>
+      </div>
+    </article>`;
+  }
+
   const secretariat = person.telephone
     ? `<p class="small"><strong>Secrétariat :</strong>
          <a href="${telHref(person.telephone)}">${person.telephone}</a>
