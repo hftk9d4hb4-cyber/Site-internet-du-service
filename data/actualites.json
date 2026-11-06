@@ -1,13 +1,22 @@
 [
   {
-  "date": "2026-10-15",
-  "categorie": "Vie du service",
-  "titre": "Le Dr Imed Ben Amor récompensé au congrès américain de chirurgie bariatrique",
-  "resume": "Félicitations au Dr Imed Ben Amor, qui remporte pour la deuxième fois le prix de la meilleure vidéo chirurgicale au congrès américain de chirurgie bariatrique.",
-  "texte": "Le Service de chirurgie viscérale et digestive du CHU de Nice félicite le Dr Imed Ben Amor pour l'obtention, pour la seconde fois, du prix de la meilleure vidéo chirurgicale au congrès américain de chirurgie bariatrique. Cette distinction internationale souligne son expertise en chirurgie bariatrique et métabolique et contribue au rayonnement de notre équipe.",
-  "image": "",
-  "lien": ""
-},
+    "date": "2026-11-06",
+    "categorie": "Congrès",
+    "titre": "Le CHU de Nice représenté à la première journée nationale du réseau SURVI",
+    "resume": "Félicitations à Karl, interne dans notre service, qui a représenté le CHU de Nice et notre équipe lors de la première journée nationale du réseau SURVI consacrée à l’ischémie intestinale.",
+    "texte": "Sous l’impulsion du Pr Corcos, à l’hôpital Beaujon, le réseau SURVI contribue à diffuser des protocoles de prise en charge de l’ischémie intestinale visant à améliorer significativement le pronostic des patients. Nous félicitons Karl pour sa participation à cette journée nationale et son engagement dans cette dynamique collaborative.",
+    "image": "",
+    "lien": ""
+  },
+  {
+    "date": "2026-10-15",
+    "categorie": "Vie du service",
+    "titre": "Le Dr Imed Ben Amor récompensé au congrès américain de chirurgie bariatrique",
+    "resume": "Félicitations au Dr Imed Ben Amor, qui remporte pour la deuxième fois le prix de la meilleure vidéo chirurgicale au congrès américain de chirurgie bariatrique.",
+    "texte": "Le Service de chirurgie viscérale et digestive du CHU de Nice félicite le Dr Imed Ben Amor pour l'obtention, pour la seconde fois, du prix de la meilleure vidéo chirurgicale au congrès américain de chirurgie bariatrique. Cette distinction internationale souligne son expertise en chirurgie bariatrique et métabolique et contribue au rayonnement de notre équipe.",
+    "image": "",
+    "lien": ""
+  },
   {
     "date": "2026-09-18",
     "categorie": "Congrès",
