@@ -17,7 +17,7 @@
       "acronyme": "DIVERTI-2",
       "pathologie": "Péritonite d'origine diverticulaire",
       "description": "Étude consacrée à l'évaluation de la prise en charge des péritonites d'origine diverticulaire.",
-      "statut": "Recrutement ouvert"
+      "statut": "Inclusions closes"
     },
     {
       "acronyme": "HYPNO-APP",
@@ -58,10 +58,9 @@
     {
       "acronyme": "INCISOX",
       "objet": "Apport de l'injection de toxine botulique dans les éventrations géantes.",
-      "site": "Archet",
       "promoteur": "AP-HP",
-      "investigateur": "",
-      "statut": "À venir"
+      "investigateur": "Pr Damien Massalou",
+      "statut": "Recrutement en cours"
     }
   ],
   "bases_donnees": [
